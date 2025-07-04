@@ -81,9 +81,10 @@ python face_mask_detection.py
 - Trained model saved as `face_mask_model.keras`
 - Processed data saved as `processed_data.pkl`
 - Training history saved as `training_history.pkl`
+- 
 ![Ekran görüntüsü 2025-07-05 001051](https://github.com/user-attachments/assets/d5f618cf-466c-48e9-b16e-1d39038cdd25)
 
-  ![Ekran görüntüsü 2025-07-05 000416](https://github.com/user-attachments/assets/e8fac273-6df0-4c00-b21c-10024845fdf6)
+![Ekran görüntüsü 2025-07-05 000416](https://github.com/user-attachments/assets/e8fac273-6df0-4c00-b21c-10024845fdf6)
 
 
 
