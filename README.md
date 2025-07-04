@@ -203,7 +203,7 @@ Dense(1, activation='sigmoid')
 
 ## 👨‍💻 Geliştirici
 
-**Öğrenci**: Meryemnur PALA,Ezgi Kutlu, Nisan Demiray
+**Öğrenci**: Meryemnur PALA,Ezgi KUTLU, Nisan DEMİRAY
 
 **Ders**: Görüntü İşleme
 
