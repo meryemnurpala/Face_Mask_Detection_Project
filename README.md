@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ### 3. Dataset
 Proje, Face Mask Detection Dataset kullanmaktadır:
-- **Source**: [Kaggle Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
+- **Source**: [Kaggle Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset?resource=download)
 - **Classes**: With Mask (😷) / Without Mask (😮)
 - **Location**: `data/with_mask/` ve `data/without_mask/` klasörleri
 
@@ -81,6 +81,11 @@ python face_mask_detection.py
 - Trained model saved as `face_mask_model.keras`
 - Processed data saved as `processed_data.pkl`
 - Training history saved as `training_history.pkl`
+![Ekran görüntüsü 2025-07-05 001051](https://github.com/user-attachments/assets/d5f618cf-466c-48e9-b16e-1d39038cdd25)
+
+  ![Ekran görüntüsü 2025-07-05 000416](https://github.com/user-attachments/assets/e8fac273-6df0-4c00-b21c-10024845fdf6)
+
+
 
 ## 🖥️ Arayüz Kullanımı
 
@@ -96,6 +101,9 @@ python app.py
 3. **Analiz Et**: "🔍 Analiz Et" butonuna tıklayın
 4. **Sonucu Gör**: Maske durumu ve doğruluk oranını inceleyin
 
+   ![Ekran görüntüsü 2025-07-05 013106](https://github.com/user-attachments/assets/c4cf7f58-a67d-489a-b448-4a05ec5c703d)
+
+
 ### 3. Interface Features
 - ✅ **Flexible Size Support**: Any image size
 - ✅ **Aspect Ratio Preservation**: Proportions maintained
@@ -110,6 +118,13 @@ python app.py
 - **Accuracy**: ~95% (on validation set)
 - **Loss**: Low overfitting
 - **Confusion Matrix**: High precision/recall
+
+- ![Ekran görüntüsü 2025-07-05 013144](https://github.com/user-attachments/assets/c8430803-91bd-45a1-afbf-6498d06bcfe4)
+
+  ![Ekran görüntüsü 2025-07-05 013152](https://github.com/user-attachments/assets/61432801-b518-47ab-8dc4-9170002a8bc4)
+
+![Ekran görüntüsü 2025-07-05 013136](https://github.com/user-attachments/assets/9931eac7-942a-4e73-8797-7e7dfe5dfea5)
+
 
 ### Classification Results
 - **With Mask**: High accuracy
