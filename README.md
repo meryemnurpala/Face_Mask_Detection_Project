@@ -204,7 +204,9 @@ Dense(1, activation='sigmoid')
 ## 👨‍💻 Geliştirici
 
 **Öğrenci**: Meryemnur PALA,Ezgi Kutlu, Nisan Demiray
+
 **Ders**: Görüntü İşleme
+
 **Konu**: Transfer Learning ile Maske Tespiti
 
 ---
